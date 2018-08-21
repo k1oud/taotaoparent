@@ -10,8 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>taotao-manager-com.taotao.pojo</module>
-        <module>taotao-manager-com.taotao.mapper</module>
+        <module>taotao-manager-pojo</module>
+        <module>taotao-manager-mapper</module>
         <module>taotao-manager-service</module>
         <module>taotao-manager-web</module>
     </modules>
