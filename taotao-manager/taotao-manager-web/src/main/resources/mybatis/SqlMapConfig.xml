@@ -6,8 +6,9 @@
     <!--<mappers>
         <mapper resource="**/*Mapper.xml" />
     </mappers>-->
-    <mappers>
-       <!-- <mapper resource="com.taotao.mapper/TbItemMapper.xml"/>-->
-        <!--<mapper resource="com.taotao.mapper"/>-->
-    </mappers>
+   <!-- <mappers>
+        &lt;!&ndash;<mapper resource="mapper/"/>&ndash;&gt;
+
+        <mapper resource="mapper/**"/>
+    </mappers>-->
 </configuration>
