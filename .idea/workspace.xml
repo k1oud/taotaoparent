@@ -620,9 +620,6 @@
         <option name="BuildArtifacts" enabled="true">
           <artifact name="taotaomanagerweb:war" />
         </option>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="taotaomanagerweb:war" />
-        </option>
       </method>
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.90" ALTERNATIVE_JRE_ENABLED="false">
